@@ -20,7 +20,7 @@ trending::glm_nb_model
 #' @importFrom trending brms_model
 #' @export
 #' @name brms_model
-trending::brms_model
+trending::brm_model
 
 #' @title Evaluate aic
 #' @importFrom trendeval evaluate_aic
